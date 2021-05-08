@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+label {
+  font-weight: bold;
+  margin: 20px;
+}
+
+button {
+  text-align: center;
+  font-weight: bold;
+  color: white;
+  border: none;
+  margin: 20px;
+  padding: 10px;
+}
+
+.login {
+  margin: 100px;
+  text-align: center;
+}
+
+.okBtn {
+  background-color: green;
+}
+
+.dangerBtn {
+  background-color: red;
+}
+
+.transition {
+  padding: 100px;
+  text-align: center;
+}
+
+.success {
+  color: green;
+}
+
+.failure {
+  color: red;
+}
+
+.errorMessage {
+  font-weight: bold;
+  color: red;
+}
