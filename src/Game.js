@@ -119,7 +119,7 @@ export default class Game {
                 radius: '100',
             },
             headers: {
-                'x-rapidapi-key': 'b9385517f7msh0db6fd312c19076p1c2f31jsn02a89c97185e',
+                'x-rapidapi-key': process.env.REACT_APP_RAPID_API_KEY,
                 'x-rapidapi-host': 'wft-geo-db.p.rapidapi.com'
             }
         })).data;
@@ -134,7 +134,7 @@ export default class Game {
             method: 'GET',
             url: 'https://voicerss-text-to-speech.p.rapidapi.com/',
             params: {
-              key: 'e4fc13656d804948b8c576a8732f6764',
+              key: process.env.REACT_APP_VOICE_RSS_API_KEY,
               hl: 'en-us',
               src: {message},
               f: '8khz_8bit_mono',
@@ -142,7 +142,7 @@ export default class Game {
               r: '0'
             },
             headers: {
-              'x-rapidapi-key': 'b9385517f7msh0db6fd312c19076p1c2f31jsn02a89c97185e',
+              'x-rapidapi-key': process.env.REACT_APP_RAPID_API_KEY,
               'x-rapidapi-host': 'voicerss-text-to-speech.p.rapidapi.com'
             },
             responseType: 'blob',
