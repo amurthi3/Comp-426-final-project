@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/Comp-426-final-project/static/css/main.29c54b95.chunk.css",
-    "main.js": "/Comp-426-final-project/static/js/main.731d7297.chunk.js",
-    "main.js.map": "/Comp-426-final-project/static/js/main.731d7297.chunk.js.map",
+    "main.js": "/Comp-426-final-project/static/js/main.63373550.chunk.js",
+    "main.js.map": "/Comp-426-final-project/static/js/main.63373550.chunk.js.map",
     "runtime-main.js": "/Comp-426-final-project/static/js/runtime-main.53dab606.js",
     "runtime-main.js.map": "/Comp-426-final-project/static/js/runtime-main.53dab606.js.map",
-    "static/js/2.efa80c5d.chunk.js": "/Comp-426-final-project/static/js/2.efa80c5d.chunk.js",
-    "static/js/2.efa80c5d.chunk.js.map": "/Comp-426-final-project/static/js/2.efa80c5d.chunk.js.map",
+    "static/js/2.34443d12.chunk.js": "/Comp-426-final-project/static/js/2.34443d12.chunk.js",
+    "static/js/2.34443d12.chunk.js.map": "/Comp-426-final-project/static/js/2.34443d12.chunk.js.map",
     "index.html": "/Comp-426-final-project/index.html",
     "static/css/main.29c54b95.chunk.css.map": "/Comp-426-final-project/static/css/main.29c54b95.chunk.css.map",
-    "static/js/2.efa80c5d.chunk.js.LICENSE.txt": "/Comp-426-final-project/static/js/2.efa80c5d.chunk.js.LICENSE.txt"
+    "static/js/2.34443d12.chunk.js.LICENSE.txt": "/Comp-426-final-project/static/js/2.34443d12.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.53dab606.js",
-    "static/js/2.efa80c5d.chunk.js",
+    "static/js/2.34443d12.chunk.js",
     "static/css/main.29c54b95.chunk.css",
-    "static/js/main.731d7297.chunk.js"
+    "static/js/main.63373550.chunk.js"
   ]
 }
